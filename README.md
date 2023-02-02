@@ -5,3 +5,11 @@
 [Action1 RMM Status](https://status.action1.com/)
 
 [AWS Service Health (Amazon Web Services)](https://health.aws.amazon.com/health/status)
+
+[Citrix Cloud Health Dashboard](https://status.cloud.com/)
+
+[Google Cloud Status](https://status.cloud.google.com/)
+
+[Google Workspace Status](https://www.google.com/appsstatus/dashboard/)
+
+[Microsoft 365 Status (Twitter more detail in Admin Dashboard)](https://twitter.com/MSFT365Status)
