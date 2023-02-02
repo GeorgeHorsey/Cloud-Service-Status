@@ -1,2 +1,5 @@
 # Cloud-Service-Status
-For hosting a MD file with hyperlinks to cloud services status pages for quick reference.
+
+[GitHub Status (LOL)](https://www.githubstatus.com/)
+
+[Action1 RMM Status](https://status.action1.com/)
