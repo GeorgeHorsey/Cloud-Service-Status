@@ -1,6 +1,6 @@
 # Cloud Service Status
 
-[GitHub Status (LOL)](https://www.githubstatus.com/)
+[GitHub Status (LOL this is hosted on GitHub)](https://www.githubstatus.com/)
 
 [Action1 RMM Status](https://status.action1.com/)
 
