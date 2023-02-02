@@ -12,4 +12,4 @@
 
 [Google Workspace Status](https://www.google.com/appsstatus/dashboard/)
 
-[Microsoft 365 Status (Twitter more detail in Admin Dashboard)](https://twitter.com/MSFT365Status)
+[Microsoft 365 Status (Twitter - More detail in Admin Dashboard)](https://twitter.com/MSFT365Status)
