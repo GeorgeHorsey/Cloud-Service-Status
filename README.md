@@ -1,4 +1,4 @@
-# Cloud-Service-Status
+# Cloud Service Status
 
 [GitHub Status (LOL)](https://www.githubstatus.com/)
 
