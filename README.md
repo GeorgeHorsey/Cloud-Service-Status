@@ -4,6 +4,8 @@
 
 [Action1 RMM Status](https://status.action1.com/)
 
+[Apple Service Status](https://www.apple.com/support/systemstatus/)
+
 [AWS Service Health (Amazon Web Services)](https://health.aws.amazon.com/health/status)
 
 [Citrix Cloud Health Dashboard](https://status.cloud.com/)
